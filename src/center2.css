@@ -1,0 +1,20 @@
+.center2{
+background-color: white;
+padding-left: 300px;
+padding-right: 300px;
+display: flex;
+flex-direction: column;
+text-align: center;
+align-content: center;
+
+}
+.head21{
+    margin: 5px;
+    color: black;
+    font-size:2vw;
+}
+.para22{
+    margin: 5px;
+    color: black;
+    font-size: 1vw;
+}

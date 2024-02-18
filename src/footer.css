@@ -1,0 +1,53 @@
+.footer{
+    background-color: white;
+    color: black;
+    margin-bottom: 10px;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: large;
+}
+.logo_f{
+    /* margin: 10px; */
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.support{
+    /* margin: 10px; */
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.support-ele{
+    margin-top: 0;
+    margin: 0px;
+}
+.company{
+    /* margin: 10px; */
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.company-ele{
+    margin-top: 0;
+    margin: 5px;
+    padding: 10px;
+}
+.terms{
+    /* margin: 10px; */
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.terms-ele{
+    margin-top: 0px;
+    margin: 5px;
+    padding: 10px;
+}
+

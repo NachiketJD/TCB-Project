@@ -1,0 +1,45 @@
+.center{
+    margin-top: 50px;
+    margin: 40px;
+    padding-left: 240px;
+    padding-right: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+ .head11{
+    margin-top: 60px;
+    color:  #f6f7f3;
+    font-size: 77px;
+    /* padding-left: 100px;
+    padding-right: 100px; */
+}
+
+ .para1{
+    /* margin-top: 30px; */
+    color:  #f6f7f3;
+    font-size: 30px; 
+} 
+.head2{
+    margin-top: 30px;
+    color:  #f6f7f3;
+    font-size: 47px;
+}
+.para2{
+    color:  #f6f7f3;
+    font-size: 30px;
+} 
+.button button{
+    margin-top: 20px;
+    margin: 20px;
+    color: black;
+    height: 50px;
+    width: 100px;
+    border-radius: 30%;
+    background-color: rgb(221, 221, 37);
+}
+.dnd-module .button {
+    text-align: center;
+  }
