@@ -6,7 +6,7 @@ function Center2 (){
     return(
         <div className='center2'>
             <div class="logo2">
-                <img src={center2img}></img>
+                <img src={center2img} alt="logo"></img>
             </div>
             <div class="head21" >
             Bring the best of open source to you, your team, and your company
